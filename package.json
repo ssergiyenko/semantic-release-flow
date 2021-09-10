@@ -1,0 +1,15 @@
+{
+  "name": "semantic-release-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "semantic-release": "^17.0.4"
+  },
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "repository": "https://github.com/ssergiyenko/semantic-release-flow",
+  "author": ""
+}
