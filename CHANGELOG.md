@@ -1,5 +1,17 @@
 # Change history for semantic-release-flow
 
+# [3.0.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v2.2.1...v3.0.0) (2021-09-11)
+
+
+### Tests
+
+* uS777 Edit test.js file ([#19](https://github.com/ssergiyenko/semantic-release-flow/issues/19)) ([54c13d7](https://github.com/ssergiyenko/semantic-release-flow/commit/54c13d7f21ec9a75f6325ab970dea38337f04705)), closes [#US777](https://github.com/ssergiyenko/semantic-release-flow/issues/US777)
+
+
+### BREAKING CHANGES
+
+* Nothing special.
+
 ## [2.2.1](https://github.com/ssergiyenko/semantic-release-flow/compare/v2.2.0...v2.2.1) (2021-09-11)
 
 
