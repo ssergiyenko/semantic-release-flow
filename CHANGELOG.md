@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v2.0.0...v2.1.0) (2021-09-11)
+
+
+### Features
+
+* fail the test ([#14](https://github.com/ssergiyenko/semantic-release-flow/issues/14)) ([7ba972a](https://github.com/ssergiyenko/semantic-release-flow/commit/7ba972a3a59be4144b7f41009e8803d351e1fecc))
+
 # [2.0.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v1.5.1...v2.0.0) (2021-09-11)
 
 
