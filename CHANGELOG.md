@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v1.5.1...v2.0.0) (2021-09-11)
+
+
+### Features
+
+* change index.js file ([#13](https://github.com/ssergiyenko/semantic-release-flow/issues/13)) ([bcdb663](https://github.com/ssergiyenko/semantic-release-flow/commit/bcdb663c78470317b36f00a25ccf6ae80497a660))
+
+
+### BREAKING CHANGES
+
+* Add has been replaced with multiply.
+
 ## [1.5.1](https://github.com/ssergiyenko/semantic-release-flow/compare/v1.5.0...v1.5.1) (2021-09-11)
 
 
