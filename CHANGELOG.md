@@ -1,5 +1,12 @@
 # Change history for semantic-release-flow
 
+# [3.3.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v3.2.2...v3.3.0) (2021-09-11)
+
+
+### Features
+
+* refactor index.js ([d554662](https://github.com/ssergiyenko/semantic-release-flow/commit/d554662a9a6a3ab40bf296cd00b5fa75c99d611c))
+
 ## [3.2.2](https://github.com/ssergiyenko/semantic-release-flow/compare/v3.2.1...v3.2.2) (2021-09-11)
 
 
