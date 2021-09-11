@@ -1,5 +1,12 @@
 # Change history for semantic-release-flow
 
+# [3.2.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v3.1.0...v3.2.0) (2021-09-11)
+
+
+### Features
+
+* edit publish job ([#21](https://github.com/ssergiyenko/semantic-release-flow/issues/21)) ([66fb5c9](https://github.com/ssergiyenko/semantic-release-flow/commit/66fb5c9b159c1f9d6d3a5e72313acbe12e153bbb))
+
 # [3.1.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v3.0.1...v3.1.0) (2021-09-11)
 
 
