@@ -1,5 +1,12 @@
 # Change history for semantic-release-flow
 
+## [2.2.1](https://github.com/ssergiyenko/semantic-release-flow/compare/v2.2.0...v2.2.1) (2021-09-11)
+
+
+### Bug Fixes
+
+* edit changelog title ([#16](https://github.com/ssergiyenko/semantic-release-flow/issues/16)) ([d5d9170](https://github.com/ssergiyenko/semantic-release-flow/commit/d5d917051d65410e9478e51d9efb4c3cfbdf7340))
+
 # [2.2.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v2.1.0...v2.2.0) (2021-09-11)
 
 
