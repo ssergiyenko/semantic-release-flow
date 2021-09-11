@@ -1,4 +1,4 @@
-Change history for semantic-release-flow
+# Change history for semantic-release-flow
 
 # [2.2.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v2.1.0...v2.2.0) (2021-09-11)
 
