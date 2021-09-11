@@ -1,6 +1,6 @@
-const add = require('.');
+const multiply = require('.');
 
-test('add', () => {
-  expect(add(1, 2)).toEqual(3);
-  expect(add(-1, -2)).toEqual(-3);
+test('multiply', () => {
+  expect(multiply(1, 2)).toEqual(2);
+  expect(multiply(-1, -2)).toEqual(2);
 });
