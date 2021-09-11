@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/ssergiyenko/semantic-release-flow/compare/v1.5.0...v1.5.1) (2021-09-11)
+
+
+### Bug Fixes
+
+* edit release.yml ([#12](https://github.com/ssergiyenko/semantic-release-flow/issues/12)) ([6a56df2](https://github.com/ssergiyenko/semantic-release-flow/commit/6a56df23ba5d6c251b026c392317febb3f7ca862))
+
 # [1.5.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v1.4.0...v1.5.0) (2021-09-11)
 
 
