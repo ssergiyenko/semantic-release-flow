@@ -1,5 +1,10 @@
 # Change history for semantic-release-flow
 
+## 3.5.0 (IN PROGRESS)
+
+* Update CHANGELOG.md
+
+
 # [3.4.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v3.3.0...v3.4.0) (2021-09-11)
 
 
