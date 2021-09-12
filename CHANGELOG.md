@@ -1,5 +1,12 @@
 # Change history for semantic-release-flow
 
+# [3.6.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v3.5.0...v3.6.0) (2021-09-12)
+
+
+### Features
+
+* update test.js ([aa24db0](https://github.com/ssergiyenko/semantic-release-flow/commit/aa24db080bb93380f66b694124ef9aef3f203eb0))
+
 # [3.5.0](https://github.com/ssergiyenko/semantic-release-flow/compare/v3.4.0...v3.5.0) (2021-09-12)
 
 
