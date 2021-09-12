@@ -21,3 +21,5 @@ In order to use **semantic-release** you need:
 - Use a Continuous Integration service that allows you to [securely set up credentials](docs/usage/ci-configuration.md#authentication)
 - Git CLI version [2.7.1 or higher](docs/support/FAQ.md#why-does-semantic-release-require-git-version--271) installed in your Continuous Integration environment
 - [Node.js](https://nodejs.org) version [10.19 or higher](docs/support/FAQ.md#why-does-semantic-release-require-node-version--1019) installed in your Continuous Integration environment
+
+End of file
