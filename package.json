@@ -1,15 +1,24 @@
 {
   "name": "semantic-release-flow",
-  "version": "1.0.0",
+  "version": "3.6.3",
   "description": "",
   "main": "index.js",
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.1",
+    "cz-conventional-changelog": "^3.3.0",
     "jest": "^25.1.0",
     "semantic-release": "^17.0.4"
   },
   "scripts": {
-    "test": "jest test.js"
+    "test": "jest test.js",
+    "commit": "git-cz"
   },
   "repository": "https://github.com/ssergiyenko/semantic-release-flow",
-  "author": ""
+  "author": "",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
