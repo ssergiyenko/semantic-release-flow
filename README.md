@@ -12,3 +12,5 @@
 - Avoid potential errors associated with manual releases
 - Support any [package managers and languages](docs/recipes/README.md#package-managers-and-languages) via [plugins](docs/usage/plugins.md)
 - Simple and reusable configuration via [shareable configurations](docs/usage/shareable-configurations.md)
+
+End
