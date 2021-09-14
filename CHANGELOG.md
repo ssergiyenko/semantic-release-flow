@@ -1,5 +1,12 @@
 # Change history for semantic-release-flow
 
+## [1.0.3](https://github.com/ssergiyenko/semantic-release-flow/compare/v1.0.2...v1.0.3) (2021-09-14)
+
+
+### Bug Fixes
+
+* update readme ([a6f3087](https://github.com/ssergiyenko/semantic-release-flow/commit/a6f3087491fa065d12b3ceb0afd31470be48b40e))
+
 ## [1.0.2](https://github.com/ssergiyenko/semantic-release-flow/compare/v1.0.1...v1.0.2) (2021-09-14)
 
 
